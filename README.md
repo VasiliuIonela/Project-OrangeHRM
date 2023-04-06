@@ -1,7 +1,7 @@
 # Project-OrangeHRM
-Application under test: [https://opensource-demo.orangehrmlive.com/web/](https://opensource-demo.orangehrmlive.com/)
+Application under test: https://opensource-demo.orangehrmlive.com/web/
 
- Application Documentation:[ https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
+ Application Documentation:https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf
 **The final project will be split into 2 sections:** [Testing section]() **and** [SQL section]()
 # Functional specification
 
