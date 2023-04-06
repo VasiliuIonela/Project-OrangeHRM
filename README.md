@@ -42,7 +42,8 @@ classifications. To add an entry, go to Admin>> Job>> Job Categories and click o
 *  Work Shifts: In this feature the HR Admin can define work shifts for an individual or a group of employees. To add an 
 entry, go to Admin>> Job>> Work Shifts and click “Add”.
 # 1 Testing Section
-The Test Plan is designed to describe all details 
+The Test Plan is designed to describe all details of testing for the  Admin Module from OrangeHRM application.
+
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM Application.
 
