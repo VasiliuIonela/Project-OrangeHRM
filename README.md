@@ -1,4 +1,7 @@
 # Project-OrangeHRM
+** The final project will be split into 2 sections:** [Testing section]() **and** [SQL section]()
+# Functional specification
+
 # 1 Testing Section
 ## 1.1 Test Planning
 ### 1.1.1 Roles asigned to the project and persons allocated
