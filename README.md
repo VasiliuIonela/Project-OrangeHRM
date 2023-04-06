@@ -32,19 +32,17 @@ The User Management field allows the HR Admin to administer users by creating lo
 To add a system user,  go to Admin>> User Management>> Users and click “Add”(Fields that should appear: user role, status, username, employee name, passoword, confirm password.  Click “Save” once the fields are completed.
 
 All job related information can be defined in this feature. The sub menu consists of the following items:
-* ● Job Titles: The job titles specific to the company can be defined in this option.To add an entry, go to Admin>> Job>> Job Titles and click “Add”.
-* ● Pay Grades: The HR Admin can define the pay grade by setting a minimum salary, maximum salary, step increase, and the 
+*  Job Titles: The job titles specific to the company can be defined in this option.To add an entry, go to Admin>> Job>> Job Titles and click “Add”.
+*  Pay Grades: The HR Admin can define the pay grade by setting a minimum salary, maximum salary, step increase, and the 
 currency to be paid in. To add an entry, go to Admin>>Job>> Pay Grades and click “Add”.
-* ● Employment Status: Employment Status allows you to define the status of employment employees are hired for or if they are 
+*  Employment Status: Employment Status allows you to define the status of employment employees are hired for or if they are 
 terminated. To add an entry, go to Admin>> Job>> Employment Status and click “Add”.
-* ● Job Categories:This feature allows the HR Admin to create job categories specific to the company to aggregate job 
+*  Job Categories:This feature allows the HR Admin to create job categories specific to the company to aggregate job 
 classifications. To add an entry, go to Admin>> Job>> Job Categories and click on “Add”
-* ● Work Shifts: In this feature the HR Admin can define work shifts for an individual or a group of employees. To add an 
+*  Work Shifts: In this feature the HR Admin can define work shifts for an individual or a group of employees. To add an 
 entry, go to Admin>> Job>> Work Shifts and click “Add”.
-
-
-
 # 1 Testing Section
+The Test Plan is designed to describe all details 
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM Application.
 
