@@ -17,6 +17,17 @@ The Admin Module provides you full control of all settings that affect the actio
 
 The Admin Module is the central control of the system and setting it up accurately is important for smooth 
 operation.
+The Admin Module consists of:
+* **User Management:** Add multiple HR Admins who will control the system, create logins for general users 
+through ESS Users.
+* **Job**: Allows the HR admin to define job titles, specifications, pay grades, employment status, job categories 
+and work shifts.
+* **Organization:** Allows the HR admin to enter/store general company info, structure of the organization and 
+locations of sites.
+* **Qualifications:** Define various skills set, education background, license types, languages and memberships.
+* **Nationalities:** Define different nationalities.
+* **Configuration:** Configure all email notifications, language localization and enable/disable module display.
+
 
 # 1 Testing Section
 ## 1.1 Test Planning
