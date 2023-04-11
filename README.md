@@ -42,30 +42,54 @@ terminated. To add an entry, go to Admin>> Job>> Employment Status and click “
 classifications. To add an entry, go to Admin>> Job>> Job Categories and click on “Add”
 *  Work Shifts: In this feature the HR Admin can define work shifts for an individual or a group of employees. To add an 
 entry, go to Admin>> Job>> Work Shifts and click “Add”.
+
 **Organization**
+
 All information about the organization, the structure and locations are defined here:
 * General Information
+
 Basic details of the company can be entered on this screen. To start adding information, go to Admin>> 
 Organization>> General Information and click “Edit”.
 * Locations
+
 Under Locations, the HR admin can add details of sites and branches of the company. You are also able to 
 track the number of employees working for a particular location once employees are tagged to the locations 
 when building up the PIM Module. 
 To add a location go to Admin>>Organization>>Location and click “Add”. Click “Save” once the fields are added.
-* Structure*
+* Structure
+
 This feature allows the admin to define the hierarchy of the company by defining sub units. Since the parent 
 company is already defined in the General Information, it would automatically appear in the Company 
 Structure screen. 
  You need to define the company name of the parent company before you create the Company Structure.
+ 
  **Qualifications**
+ 
 This feature allows you to define all information with regards to employees’ qualifications. The sub-menu 
 consists of:
-● Skills
-● Education
-● Licenses
-● Languages
+* Skills
+* Education
+* Licenses
+* Languages
+* Memberships
 
+**Nationalities**
 
+This feature allows the HR Admin to define the different nationalities that present in the company which can 
+later be used in the PIM Module. Various nationalities are already pre-defined. 
+To add a nationality, go to Admin>> Nationalities and click “Add”. Click “Save” once the field is added.
+
+**Configuration**
+
+This feature allows you to subscribe and receive notifications and to configure the parameters in setting up 
+the email so notifications will be sent to relevant persons which will quicken the communication processes.
+It also allows the HR admin to configure language localization for the entire system, set up a date format and 
+enable/disable module display.
+* Email Configuration
+* Email Subscriptions
+* Localization
+* Modules
+* 
 
 # 1 Testing Section
 ## 1.1 Test Planning
