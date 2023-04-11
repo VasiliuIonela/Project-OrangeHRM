@@ -7,7 +7,8 @@ Application under test: https://opensource-demo.orangehrmlive.com/web/
 
 # Functional specification
 The below Story was created in JIRA and describes the functional specifications of the Admin module, for which the final project is performed upon.
-The Admin Module provides you full control of all settings that affect the action of your OrangeHRM implemententatyion. Through tht Admin Module, you can:
+
+The Admin Module provides you full control of all settings that affect the action of your OrangeHRM implemententatyion. Through Admin Module, you can:
 *  Define the company hierarchy, pay grades, work shifts, projects, memberships, qualifications etc.
 *  Add other administrators and set access levels for each user.
 *  Handle security issues.
@@ -27,11 +28,11 @@ locations of sites.
 * **Qualifications:** Define various skills set, education background, license types, languages and memberships.
 * **Nationalities:** Define different nationalities.
 * **Configuration:** Configure all email notifications, language localization and enable/disable module display.
-The User Management field allows the HR Admin to administer users by creating logins and defining privileges by assigning Users Types(Admin or ESS).
+**The User Management** field allows the HR Admin to administer users by creating logins and defining privileges by assigning Users Types(Admin or ESS).
 
 To add a system user,  go to Admin>> User Management>> Users and click “Add”(Fields that should appear: user role, status, username, employee name, passoword, confirm password.  Click “Save” once the fields are completed.
 
-All job related information can be defined in this feature. The sub menu consists of the following items:
+All **job** related information can be defined in this feature. The sub menu consists of the following items:
 *  Job Titles: The job titles specific to the company can be defined in this option.To add an entry, go to Admin>> Job>> Job Titles and click “Add”.
 *  Pay Grades: The HR Admin can define the pay grade by setting a minimum salary, maximum salary, step increase, and the 
 currency to be paid in. To add an entry, go to Admin>>Job>> Pay Grades and click “Add”.
@@ -41,6 +42,31 @@ terminated. To add an entry, go to Admin>> Job>> Employment Status and click “
 classifications. To add an entry, go to Admin>> Job>> Job Categories and click on “Add”
 *  Work Shifts: In this feature the HR Admin can define work shifts for an individual or a group of employees. To add an 
 entry, go to Admin>> Job>> Work Shifts and click “Add”.
+**Organization**
+All information about the organization, the structure and locations are defined here:
+* General Information
+Basic details of the company can be entered on this screen. To start adding information, go to Admin>> 
+Organization>> General Information and click “Edit”.
+* Locations
+Under Locations, the HR admin can add details of sites and branches of the company. You are also able to 
+track the number of employees working for a particular location once employees are tagged to the locations 
+when building up the PIM Module. 
+To add a location go to Admin>>Organization>>Location and click “Add”. Click “Save” once the fields are added.
+* Structure*
+This feature allows the admin to define the hierarchy of the company by defining sub units. Since the parent 
+company is already defined in the General Information, it would automatically appear in the Company 
+Structure screen. 
+ You need to define the company name of the parent company before you create the Company Structure.
+ **Qualifications**
+This feature allows you to define all information with regards to employees’ qualifications. The sub-menu 
+consists of:
+● Skills
+● Education
+● Licenses
+● Languages
+
+
+
 # 1 Testing Section
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM Application. This Plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
