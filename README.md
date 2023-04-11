@@ -3,7 +3,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/web/
 
  Application Documentation:https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf
  
-**The final project will be split into 2 sections:** [Testing section]() **and** [SQL section]()
+**The final project will be split into 2 sections:** [Testing section](https://github.com/VasiliuIonela/Project-OrangeHRM/edit/main/README.md#1-testing-section) **and** [SQL section](https://github.com/VasiliuIonela/Project-OrangeHRM/edit/main/README.md#2-sql-section)
 
 # Functional specification
 The below Story was created in JIRA and describes the functional specifications of the Admin module, for which the final project is performed upon.
