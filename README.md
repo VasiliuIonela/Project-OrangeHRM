@@ -28,6 +28,7 @@ locations of sites.
 * **Qualifications:** Define various skills set, education background, license types, languages and memberships.
 * **Nationalities:** Define different nationalities.
 * **Configuration:** Configure all email notifications, language localization and enable/disable module display.
+
 **The User Management** field allows the HR Admin to administer users by creating logins and defining privileges by assigning Users Types(Admin or ESS).
 
 To add a system user,  go to Admin>> User Management>> Users and click “Add”(Fields that should appear: user role, status, username, employee name, passoword, confirm password.  Click “Save” once the fields are completed.
@@ -39,7 +40,7 @@ currency to be paid in. To add an entry, go to Admin>>Job>> Pay Grades and click
 *  Employment Status: Employment Status allows you to define the status of employment employees are hired for or if they are 
 terminated. To add an entry, go to Admin>> Job>> Employment Status and click “Add”.
 *  Job Categories:This feature allows the HR Admin to create job categories specific to the company to aggregate job 
-classifications. To add an entry, go to Admin>> Job>> Job Categories and click on “Add”
+classifications. To add an entry, go to Admin>> Job>> Job Categories and click on “Add”.
 *  Work Shifts: In this feature the HR Admin can define work shifts for an individual or a group of employees. To add an 
 entry, go to Admin>> Job>> Work Shifts and click “Add”.
 
@@ -89,7 +90,6 @@ enable/disable module display.
 * Email Subscriptions
 * Localization
 * Modules
-* 
 
 # 1 Testing Section
 ## 1.1 Test Planning
@@ -99,18 +99,35 @@ The Test Plan is designed to describe all details of testing for the Admin modul
 * QA Lead:
 * QA Testers:
 ### 1.1.2 Entry criteria defined
-* 
+* All test hardware platform have been successfully instaled, configured and functioning properly.
+* All the necessary documentation, design and requirements information is available(that will allow testers to operate the system and judge the correct behaviour).
+* All the standard software tools, including the testing tools, have been successfully installed and functioning properly.
+* The test environment, such as lab, hardware, software and system administration support are ready.
+roles needed for the project are allocated.
+* QA testers have completely understood the requirements.
+* Test scenarios, test cases were reviewed.
+* Initial project risks were detected and mitigated.
 ### 1.1.3 Exit criteria defined
+* A certain level of requirements coverage has been achieved.
+* All tests have been executed.
+* No high priority or severe bugs are left outstanding.
+* All resolved bugs have been re-tested and appoved bt the QA team.
+* All high-risk areas have been fully tested, with only minor residual risks left outstanding.
+* The schedule has been achieved.
 ### 1.1.4 Test scope
-* Tests in scope:
-* Tests out of scope:
+* Tests in scope: The scope of this project is limited to the testing of the features in the succeeding sections of this document. Functional testing are in scope and needed to be tested. Only web applications will be tested.
+* Tests out of scope: Non-functional testing like performance, security testing is beyond scope of this project. No QA support for mobile application developed. Automation testing is beyond scope.
 ### 1.1.5 Risks detected
 * Risks project:
 * Risks product:
-* ### 1.1.6 Evaluating entry criteria
+### 1.1.6 Evaluating entry criteria
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test monitoring and control
+Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
 ## 1.3 Test Analysis
+The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. The following test conditions were found:
 **Test conditions:**
+* 
 ## 1.4 Test Design
 **Test cases:**
 ## 1.5 Test Implementation
