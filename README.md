@@ -130,6 +130,21 @@ The testing process will be executed, based on the requirements sent by the clie
 * 
 ## 1.4 Test Design
 **Test cases:**
+* Check the functionality of the User Management module
+* Check the Add User functionality in the User Management module
+* Check the functionality of the Job module
+* Check the Add Job Title functionality in the Job module
+* Check the Add Pay Grade functionality in the Job module
+* Check the Add Employment Status functionality in the Job module.
+* Check the Add Job Category functionality in the Job module.
+* Check the Add work Shifts functionality in the Job module.
+* Check the functionality  of the Organization module.
+* Check the General Information functionality in the Organization module.
+* Check the Location functionality in the Organization module.
+
+
+
+
 ## 1.5 Test Implementation
 
 ## 1.6 Test execution
