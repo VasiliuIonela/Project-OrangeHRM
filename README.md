@@ -140,12 +140,28 @@ The testing process will be executed, based on the requirements sent by the clie
 * Check the Add work Shifts functionality in the Job module.
 * Check the functionality  of the Organization module.
 * Check the General Information functionality in the Organization module.
-* Check the Location functionality in the Organization module.
+* Check the Locations functionality in the Organization module.
+* Check the Organization Structure functionality in the Organization module.
+* Check the functionality of the Qualifications module.
+* Check the  Skills functionality in the Qualifications module.
+* Check the Education functionality in the Qualifications module.
+* Check the  Licenses functionality in the Qualifications module.
+* Check the  Languages functionality in the Qualifications module.
+* Check the  Membership functionality in the Qualifications module.
+* Check the functionality of the Nationalities module.
+* Check the functionality of the Configuration module.
+* Check the Email configuration functionality in the Configuration module.
+* Check the Email Subscriptions functionality in the Configuration module.
+* Check the Localization functionality in the Configuration module.
+* Check the Language Packages functionality in the Configuration module.
+* Check the Module configuration functionality in the Configuration module.
 
 
 
 
 ## 1.5 Test Implementation
+**Test cases**
+* 
 
 ## 1.6 Test execution
 ## 1.7 Test Completion
