@@ -78,16 +78,18 @@ The testing process will be executed, based on the requirements sent by the clie
 *  Verify the save button functionality when field is completed.
 *  Verify the delete functionality by clicking on the check box next to work shifts name.
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are 
-**Test cases:**
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are found here: 
 
 
 
-bug job title details cannot be aceesed. the nanme isn't clickable
-currency name isn't clickable
-emplyment name isn't clickable
-job category name isn't clickable
-Shift name doesn't appear as mandatory
+
+bugs found:
+* job title details cannot be accessed by clicking on the Job Title name: the name isn't clickable.
+* currency details cannot be accessed by clicking on it: name isn't clickable.
+* Edit details of employment name cannot be accessed by clicking on it: name isn't clickable.
+* job category details cannot be accessed by clicking on it: name isn't clickable.
+* work Shifts details cennot be accessed by clicking on name.
+* Shift Name is missing the '*'  as required field.
 ## 1.5 Test Implementation
 Testing environment is up and running:https://opensource-demo.orangehrmlive.com/web/
 Access to the testing environment is given: Username : Admin | Password : admin123
