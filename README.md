@@ -93,7 +93,7 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 * Access to the testing environment is given: Username : Admin | Password : admin123
 * Cycle summary was created.
 * Test cases were added to the cycle summary.
-![image](
+![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/cycle%20summary.jpeg)
 
 
 bugs found:
