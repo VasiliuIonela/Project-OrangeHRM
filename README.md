@@ -87,6 +87,15 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 
 
 
+
+## 1.5 Test Implementation
+* Testing environment is up and running:https://opensource-demo.orangehrmlive.com/web/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* Cycle summary was created.
+* Test cases were added to the cycle summary.
+![image](
+
+
 bugs found:
 * job title details cannot be accessed by clicking on the Job Title name: the name isn't clickable.
 * currency details cannot be accessed by clicking on it: name isn't clickable.
@@ -94,11 +103,6 @@ bugs found:
 * job category details cannot be accessed by clicking on it: name isn't clickable.
 * work Shifts details cennot be accessed by clicking on name.
 * Shift Name is missing the '*'  as required field.
-## 1.5 Test Implementation
-* Testing environment is up and running:https://opensource-demo.orangehrmlive.com/web/
-* Access to the testing environment is given: Username : Admin | Password : admin123
-* Cycle summary was created.
-* Test cases were added to the cycle summary.
 
 ## 1.6 Test execution
 * Test cases are executed on the created test Cycle summary:
