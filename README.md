@@ -42,15 +42,16 @@ The Test Plan is designed to describe all details of testing for the Job module 
 * The schedule has been achieved.
 ### 1.1.4 Test scope
 * Tests in scope: The scope of this project is limited to the testing of the features in the succeeding sections of this document. All the features of Job module which were defined in software requirements specifications need to be tested.
-* Tests out of scope: Non-functional testing like performance, security testing, integrations of the Job module with other modules, compatibility testiong is beyond scope of this project.
+* Tests out of scope: Non-functional testing like performance, security testing, integrations of the Job module with other modules, compatibility testing is beyond scope of this project.
 ### 1.1.5 Risks detected
-* Risks project: lack of experience of the QA team, short deadline of Zephyr Squad trial,
-* Risks product:
+* Risks project: lack of experience of the QA team, short deadline of Zephyr Squad trial.
+* Risks product: data privacy risks, compliance risks.
 ### 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test monitoring and control
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
-The following status report was generated after
+The following status report was generated, to view the actual progress:
+
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. The following test conditions were found:
 **Test conditions:**
@@ -76,7 +77,10 @@ The testing process will be executed, based on the requirements sent by the clie
 * Verify that a work shift details can be accessed when clicking on its name.
 *  Verify the delete functionality by clicking on the check box next to work shifts name.
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are found here: 
+Functional test cases were created in Zephyr Squad. 
+
+The test cases with steps can be viewed here: [test cases]().
+
 
 
 
@@ -99,6 +103,11 @@ bugs found:
 * Bugs have been created based on the failed tests. The complete bug reports can be found here:
 * Full regression testing is needed after the bugs are fixed.
 ## 1.7 Test Completion
+* The Traceability matrix was generated and can be found here:
+* Test execution chart was generated:
+* The final report shows that: 
+* A total number of 22 test cases were planned for execution and all of them were executed.
+* A number of: bugs were found.
 
 # 2 SQL Section
 
