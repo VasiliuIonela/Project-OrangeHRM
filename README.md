@@ -11,7 +11,7 @@ Tools used: JIRA, Zephyr Squad.
 
 The below Epic and Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which the final project is performed upon.
 
-![image](C:\Users\radu_\Downloads\Web capture_27-4-2023_103111_project01itf.atlassian.net.jpeg)
+![image]("C:\Users\radu_\Downloads\jobModule.jpeg")
 
 
 
