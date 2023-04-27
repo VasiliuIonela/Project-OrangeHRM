@@ -52,6 +52,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
 The following status report was generated, to view the actual progress:
 
+![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/daily%20test%20report.jpeg)
+
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. The following test conditions were found:
 **Test conditions:**
