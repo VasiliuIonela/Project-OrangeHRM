@@ -65,17 +65,15 @@ The testing process will be executed, based on the requirements sent by the clie
 * Verify the delete functionality of a  Pay Grade.
 * Verify the add employment status functionality when mandatory field are completed with valid data.
 * Verify the save button functionality when field is left blank in Add Emplyment Status.
-* Verify you can edit emplyment status by clicking the empolyment status name.
-* 
+* Verify you can edit employment status by clicking the empolyment status name.
 * Verify the delete functionality of an Emplyment status by clicking on the check box next to employment status name.
-* Verify you can add a job category.
-* Verify the save button functionality when field is completed.
-*  Verify the save button functionality when field is left blank.
+* Verify you can add a job category when required field is completed.
+*   Verify that a job category cannot be added when required field is left blank.  
 *  Verify if you can access job category details by clicking on the job category name.
 *  Verify the delete functionality by clicking on the check box next to job category name.
-*  Verify if you can add work shifts.
-*  Verify the save button functionality when field is left blank.
-*  Verify the save button functionality when field is completed.
+*  Verify if you can add work shifts when fields are completed.
+*  Verify that a work shift can be added when fields are left blank.
+* Verify that a work shift details can be accessed when clicking on its name.
 *  Verify the delete functionality by clicking on the check box next to work shifts name.
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are found here: 
@@ -91,10 +89,10 @@ bugs found:
 * work Shifts details cennot be accessed by clicking on name.
 * Shift Name is missing the '*'  as required field.
 ## 1.5 Test Implementation
-Testing environment is up and running:https://opensource-demo.orangehrmlive.com/web/
-Access to the testing environment is given: Username : Admin | Password : admin123
-Cycle summary was created.
-Test cases were added to the cycle summary.
+* Testing environment is up and running:https://opensource-demo.orangehrmlive.com/web/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* Cycle summary was created.
+* Test cases were added to the cycle summary.
 
 ## 1.6 Test execution
 * Test cases are executed on the created test Cycle summary:
