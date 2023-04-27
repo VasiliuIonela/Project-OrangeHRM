@@ -10,8 +10,7 @@ Tools used: JIRA, Zephyr Squad.
 # Functional specification
 
 The below Epic and Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which the final project is performed upon.
-
-<img src="C:\Users\radu_\Downloads\jobModule.jpeg">
+![image 1](https://user-images.githubsercontent.com/)
 
 
 
