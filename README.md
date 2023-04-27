@@ -54,22 +54,20 @@ The following status report was generated after
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. The following test conditions were found:
 **Test conditions:**
-* Verify if you can add an entry in the Job titles field
-* Verify the Save button functionality after you have entered valid data in the mandatory fields.
-* Verify the Save button functionality when the fields are left blank.
-* Verify the delete functionality by clicking on the check box next to the Job Title name.
+* Verify  that a new  entry in the Job titles field can be added.
+* Verify the Save button functionality for adding job title, when required fields are left blank.
+* Verify that a Job Title can be deleted when clicking on the check box next to Job Title name.
 * Verify if you can access job title details by clicking on the name of Job Title.
-* Verify if you can add a pay grade.
-* Verify the save button functionality when mandatory field is completed with credentials.
-* Verify the save button functionality when field is left blank.
-* Verify the add curency functionality 
+* Verify that a pay grade can be added by filling in mandatory fields with correct dates.
+* Verify the Save button  functionality for adding pay grade, when required field Name is left blank.
+* Verify that the currency, for a Pay Grade created, can be defined.
 * Verify the edit functionality of the Currency by clicking on the currency name.
 * Verify the delete functionality of a  Pay Grade.
-* Verify the add emplyment stasus functionality.
-* Verify the save button functionality when filed is completed.
-* Verify the save button when field is left blank.
-* Verify you can edit emplyment status by clicking the empolyment status name
-* Verify the delete functionality of an Emplyment status by clicking on the check box next to employment name.
+* Verify the add employment status functionality when mandatory field are completed with valid data.
+* Verify the save button functionality when field is left blank in Add Emplyment Status.
+* Verify you can edit emplyment status by clicking the empolyment status name.
+* 
+* Verify the delete functionality of an Emplyment status by clicking on the check box next to employment status name.
 * Verify you can add a job category.
 * Verify the save button functionality when field is completed.
 *  Verify the save button functionality when field is left blank.
