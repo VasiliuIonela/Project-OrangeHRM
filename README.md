@@ -102,14 +102,15 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 * work Shifts details cennot be accessed by clicking on name.
 * Shift Name is missing the '*'  as required field.
 
-*   The complete bug reports can be found here: [bug reports]().
+The complete bug reports can be found here: [bug reports](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/bugs-hrm.pdf).
+
 * Full regression testing is needed after the bugs are fixed.
 ## 1.7 Test Completion
 * The Traceability matrix was generated and can be found here:
 * Test execution chart was generated:
 * The final report shows that: 
 * A total number of 22 test cases were planned for execution and all of them were executed.
-* A number of: bugs were found.
+
 
 # 2 SQL Section
 
