@@ -85,11 +85,6 @@ Functional test cases were created in Zephyr Squad.
 
 The test cases with steps can be viewed here: [test cases](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/ZFJ-issue-export-04-27-2023-242ac113-0001%20(2).xlsx).
 
-
-
-
-
-
 ## 1.5 Test Implementation
 * Testing environment is up and running:https://opensource-demo.orangehrmlive.com/web/
 * Access to the testing environment is given: Username : Admin | Password : admin123
@@ -97,8 +92,9 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 * Test cases were added to the cycle summary.
 ![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/cycle%20summary.jpeg)
 
-
-bugs found:
+## 1.6 Test execution
+* Test cases are executed on the created test Cycle summary:
+* Bugs have been created based on the failed tests:
 * job title details cannot be accessed by clicking on the Job Title name: the name isn't clickable.
 * currency details cannot be accessed by clicking on it: name isn't clickable.
 * Edit details of employment name cannot be accessed by clicking on it: name isn't clickable.
@@ -106,9 +102,7 @@ bugs found:
 * work Shifts details cennot be accessed by clicking on name.
 * Shift Name is missing the '*'  as required field.
 
-## 1.6 Test execution
-* Test cases are executed on the created test Cycle summary:
-* Bugs have been created based on the failed tests. The complete bug reports can be found here:
+*   The complete bug reports can be found here: [bug reports]().
 * Full regression testing is needed after the bugs are fixed.
 ## 1.7 Test Completion
 * The Traceability matrix was generated and can be found here:
