@@ -9,7 +9,7 @@ Tools used: JIRA, Zephyr Squad.
 
 # Functional specification
 
-The below Epic and Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which the final project is performed upon.
+The below Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which this project is performed upon: [Stories]
 
 ![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/jobModule.jpeg)
 ![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20titles.jpeg)
