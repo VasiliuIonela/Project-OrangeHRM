@@ -11,7 +11,8 @@ Tools used: JIRA, Zephyr Squad.
 
 The below Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which this project is performed upon: [Stories]
 
-![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/jobModule.jpeg)![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20titles.jpeg)
+![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/jobModule.jpeg)
+![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20titles.jpeg)
 ![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/pay%20grade.jpeg)
 ![image 1](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/employment%20status.jpeg)
 ![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20categories.jpeg)
@@ -65,7 +66,7 @@ The testing process will be executed, based on the requirements sent by the clie
 * Verify that the currency, for a Pay Grade created, can be defined.
 * Verify the edit functionality of the Currency by clicking on the currency name.
 * Verify the delete functionality of a  Pay Grade.
-* Verify the add employment status functionality when mandatory field are completed with valid data.
+* Verify the add employment status functionality when mandatory fields are completed with valid data.
 * Verify the save button functionality when fields are left blank in Add Emplyment Status.
 * Verify you can edit employment status by clicking the empolyment status name.
 * Verify the delete functionality of an Emplyment status by clicking on the check box next to employment status name.
@@ -74,7 +75,7 @@ The testing process will be executed, based on the requirements sent by the clie
 *  Verify if you can access job category details by clicking on the job category name.
 *  Verify the delete functionality by clicking on the check box next to job category name.
 *  Verify if you can add work shifts when fields are completed.
-*  Verify that a work shift can be added when fields are left blank.
+*  Verify that a work shift cannot be added when fields are left blank.
 * Verify that a work shift details can be accessed when clicking on its name.
 *  Verify the delete functionality by clicking on the check box next to work shifts name.
 ## 1.4 Test Design
@@ -94,9 +95,7 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 ## 1.6 Test execution
 * Test cases are executed on the created test Cycle summary:
 
-
 * Bugs have been created based on the failed tests:
-
 
 * job title details cannot be accessed by clicking on the Job Title name: the name isn't clickable.
 * currency details cannot be accessed by clicking on it: name isn't clickable.
