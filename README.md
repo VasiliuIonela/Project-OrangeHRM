@@ -67,7 +67,7 @@ The testing process will be executed, based on the requirements sent by the clie
 * Verify the edit functionality of the Currency by clicking on the currency name.
 * Verify the delete functionality of a  Pay Grade.
 * Verify the add employment status functionality when mandatory field are completed with valid data.
-* Verify the save button functionality when field is left blank in Add Emplyment Status.
+* Verify the save button functionality when fields are left blank in Add Emplyment Status.
 * Verify you can edit employment status by clicking the empolyment status name.
 * Verify the delete functionality of an Emplyment status by clicking on the check box next to employment status name.
 * Verify you can add a job category when required field is completed.
@@ -94,7 +94,11 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 
 ## 1.6 Test execution
 * Test cases are executed on the created test Cycle summary:
+
+
 * Bugs have been created based on the failed tests:
+
+
 * job title details cannot be accessed by clicking on the Job Title name: the name isn't clickable.
 * currency details cannot be accessed by clicking on it: name isn't clickable.
 * Edit details of employment name cannot be accessed by clicking on it: name isn't clickable.
