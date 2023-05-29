@@ -93,9 +93,9 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 ![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/cycle%20summary.jpeg)
 
 ## 1.6 Test execution
-* Test cases are executed on the created test Cycle summary:
+**Test cases are executed on the created test Cycle summary:
 
-* Bugs have been created based on the failed tests:
+**Bugs have been created based on the failed tests:
 
 * job title details cannot be accessed by clicking on the Job Title name: the name isn't clickable.
 * currency details cannot be accessed by clicking on it: name isn't clickable.
