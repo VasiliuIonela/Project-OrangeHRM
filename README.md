@@ -77,9 +77,6 @@ The testing process will be executed, based on the requirements sent by the clie
 * Verify that a work shift details can be accessed when clicking on its name.
 *  Verify the delete functionality by clicking on the check box next to work shifts name.
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad. 
-[test cases](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/test%20cases.jpeg)
-
 The test cases with steps can be viewed here: [test cases](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/ZFJ-issue-export-04-27-2023-242ac113-0001%20(2).xlsx).
 
 ## 1.5 Test Implementation
