@@ -9,12 +9,14 @@ Tools used: JIRA, Zephyr Squad.
 
 # Functional specification
 
-The below Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which this project is performed upon: [story1](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/jobModule.jpeg)
-[story2](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20titles.jpeg)
-[story3](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/pay%20grade.jpeg)
-[story4](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/employment%20status.jpeg)
-[story5](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20categories.jpeg)
-[story6](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/workShifts.jpeg)
+The below Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which this project is performed upon: 
+
+* [epic](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/jobModule.jpeg
+* [story2](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20titles.jpeg)
+* [story3](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/pay%20grade.jpeg)
+* [story4](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/employment%20status.jpeg)
+* [story5](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20categories.jpeg)
+* [story6](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/workShifts.jpeg)
 
 # 1 Testing Section
 ## 1.1 Test Planning
@@ -48,9 +50,7 @@ The Test Plan is designed to describe all details of testing for the Job module 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test monitoring and control
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
-The following status report was generated, to view the actual progress:
-
-![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/daily%20test%20report.jpeg)
+The following status report was generated, to view the actual progress:[test metrics](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/daily%20test%20report.jpeg)
 
 ## 1.3 Test Analysis
 The testing process will be executed, based on the requirements sent by the client, for the account of Manager modules. The following test conditions were found:
@@ -78,8 +78,7 @@ The testing process will be executed, based on the requirements sent by the clie
 *  Verify the delete functionality by clicking on the check box next to work shifts name.
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. 
-
-![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/test%20cases.jpeg)
+[test cases](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/test%20cases.jpeg)
 
 The test cases with steps can be viewed here: [test cases](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/ZFJ-issue-export-04-27-2023-242ac113-0001%20(2).xlsx).
 
@@ -87,8 +86,7 @@ The test cases with steps can be viewed here: [test cases](https://github.com/Va
 * Testing environment is up and running:https://opensource-demo.orangehrmlive.com/web/
 * Access to the testing environment is given: Username : Admin | Password : admin123
 * Cycle summary was created.
-* Test cases were added to the cycle summary.
-![image](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/cycle%20summary.jpeg)
+* Test cases were added to the [cycle summary](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/cycle%20summary.jpeg)
 
 ## 1.6 Test execution
 **Test cases are executed on the created test Cycle summary.**
