@@ -11,7 +11,7 @@ Tools used: JIRA, Zephyr Squad.
 
 The below Stories were created in JIRA and describe the functional specifications of the Job module in the Admin account, for which this project is performed upon: 
 
-* [epic](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/jobModule.jpeg
+* [epic](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/jobModule.jpeg)
 * [story2](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/job%20titles.jpeg)
 * [story3](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/pay%20grade.jpeg)
 * [story4](https://github.com/VasiliuIonela/Project-OrangeHRM/blob/main/employment%20status.jpeg)
